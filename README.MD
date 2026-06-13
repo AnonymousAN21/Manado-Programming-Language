@@ -25,7 +25,6 @@ Bahasa ini menyederhanakan alokasi memori variabel dengan membatasi penggunaan p
 
 Contoh deklarasi variabel dan array:
 ```text
-Plaintext
 angka a = 0
 angka pilihan = 0
 angka data = [5, 2, 9, 1, 7, 3, 8]
