@@ -1,7 +1,7 @@
-# Dokumentasi Teknis Bahasa Pemrograman UNSRAT
+# Dokumentasi Teknis Bahasa Pemrograman MANADO
 
 ## Pengantar
-Bahasa Pemrograman UNSRAT adalah bahasa pemrograman prosedural yang dirancang menggunakan sintaks berbasis bahasa Indonesia. Dokumentasi ini memberikan panduan teknis mengenai aturan penulisan, kata kunci, dan struktur dasar untuk membangun program menggunakan bahasa ini.
+Bahasa Pemrograman MANADO adalah bahasa pemrograman prosedural yang dirancang menggunakan sintaks berbasis bahasa Indonesia. Dokumentasi ini memberikan panduan teknis mengenai aturan penulisan, kata kunci, dan struktur dasar untuk membangun program menggunakan bahasa ini.
 
 ## Struktur Program dan Fungsi
 Setiap eksekusi program selalu bermula dari titik awal yang secara spesifik dideklarasikan sebagai fungsi utama(). Pembuatan fungsi baru dilakukan dengan menulis awalan kata kunci fungsi yang langsung diikuti oleh nama fungsi beserta parameternya. Eksekusi atau pemanggilan fungsi kustom di dalam alur program menggunakan perintah panggil sebelum penulisan nama fungsi. Jika sebuah fungsi dirancang untuk melempar nilai hasil proses, pengembang harus menggunakan perintah kembalikan. Setiap blok deklarasi fungsi wajib diakhiri dengan penutup kelar.
