@@ -20,7 +20,7 @@ static struct { const char *word; TokenType type; } g_keywords[] = {
     {"beking",                    TK_LAKUKAN},
     {"dari",                      TK_UNTUK},
     /* I/O */
-    {"tampilkan",                 TK_TAMPILKAN},
+    {"semuncul",                 TK_TAMPILKAN},
     {"panggil",                   TK_PANGGIL},
     {"masukkan",                  TK_MASUKKAN},
     {"pake",                      TK_PAKE},
